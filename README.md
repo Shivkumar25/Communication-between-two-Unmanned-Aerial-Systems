@@ -6,7 +6,8 @@ The use of flying platforms such as unmanned aerial vehicles (UAVs), popularly k
 ## Competition
 
 We are Team Amrita Ciphers from Amrita School of Engineering Bangalore. This project was done for the **Innovation Challenge in Small Unmanned Aircraft System Communications** organized by IEEE VTS Bangalore Chapter and IEEE Bangalore Section.
-The team came Runners-Up. 
+The team came Runners-Up! 😊
+
 ![Competition](Competition.jpg)
 
 
