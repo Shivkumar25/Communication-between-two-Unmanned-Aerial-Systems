@@ -5,10 +5,11 @@ The use of flying platforms such as unmanned aerial vehicles (UAVs), popularly k
 
 ## Competition
 
-We are Team Amrita Ciphers from Amrita School of Engineering Bangalore. This project was done for **Innovation Challenge in Small Unmanned Aircraft System Communications** organized by IEEE VTS Bangalore Chapter and IEEE Bangalore Section.
+We are Team Amrita Ciphers from Amrita School of Engineering Bangalore. This project was done for the **Innovation Challenge in Small Unmanned Aircraft System Communications** organized by IEEE VTS Bangalore Chapter and IEEE Bangalore Section.
+The team came Runners-Up. 
 ![Competition](Competition.jpg)
 
-The team came Runners-Up.
+
 ## Hardware Used
 1) Ryze DJI Tello Drone
 2) ESP8266 Microcontroller
