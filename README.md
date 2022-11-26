@@ -20,11 +20,12 @@ The team came Runners-Up! 😊
 2) Arduino IDE
 ## Design Model
 The design model is to establish communication between two Tello Drones using ESP8266 microcontrollers with the help of ESPNOW protocol. Two ESP8266 microcontrollers are mounted on top of the drones. The base station which only receives data will also be an ESP8266 microcontroller which will be connected with the other two microcontrollers using ESPNOW protocol.
-![Design Model](System_Architecture.PNG)
 
 Tello Drones are be connected to the Microcontrollers using Wi-Fi. The Drones will receive instructions or commands from the Nodes which are pre-programmed using Arduino IDE. The Drones will also be able to send values to other Nodes which will then be received by the base station. The data received by the base station can be seen through the Serial Monitor.
 
 Two Lithium Ion Batteries of 3.7 V and 650 mah are used to supply voltage to the Microcontrollers which will be mounted on top of the Drones
+
+![Design Model](System_Architecture.PNG)
 ## Working Algorithm
 ![Working Algorithm](Flow_Chart.PNG)
 ## Demo
